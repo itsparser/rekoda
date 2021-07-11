@@ -1,0 +1,11 @@
+{
+    "manifest_version": 2,
+    "name": "Rekoda",
+    "version": "0.1",
+    "default_locale": "en",
+    "description": "Record for Automation, Create once and run again",
+    "homepage_url":"https://www.itsparser.com/thermite",
+    "icons":
+    {
+    }
+  }
